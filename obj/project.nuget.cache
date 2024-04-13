@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "5sIdZ2Bx86yUyCz1GiHl+AfjiCB3OLl2kmxTHMYf1Y2vIFQutk5Wjmyb8AeJFH2W2h3XJN/Pgn3rkXMWVuGQVg==",
+  "success": true,
+  "projectFilePath": "F:\\UNIVO\\Programación orientada a objetos\\Tarea 1 Grupo 9\\grupo9\\grupo9.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Josue Benja\\.nuget\\packages\\spectre.console\\0.48.0\\spectre.console.0.48.0.nupkg.sha512",
+    "C:\\Users\\Josue Benja\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512"
+  ],
+  "logs": []
+}
